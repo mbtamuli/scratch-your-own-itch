@@ -1,5 +1,5 @@
 # JSON Parsing
-Write a script to take an input string. Parse this json file - [images.json]('./images.json') and list all images'  `name` field whose `family` field contains the input.
+Write a script to take an input string. Parse this json file - [images.json](./images.json) and list all images'  `name` field whose `family` field contains the input.
 
 For example,
 
